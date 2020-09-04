@@ -191,3 +191,10 @@ sites:
     tags:
       - Demo App
     last_updated: "2020-07-19T17:40:00Z"
+  - name: Darcy's Game
+    url: "https://darcy.tinbrain.net/"
+    tags:
+      - Demo App
+    description: A simple game written using Svelte.
+    last_updated: "2020-09-05T23:25:00.000Z"
+  
